@@ -58,7 +58,7 @@ export const OtpAuthModal: React.FC<OtpAuthModalProps> = ({
     setErrorMsg('');
     const session: UserSession = {
       phone,
-      name: role === 'admin' ? 'دکتر م. حسینی (مسئول فنی)' : 'کاربر گرامی داروخانه',
+      name: role === 'admin' ? 'دکتر م. خیرخواه (مسئول فنی)' : 'کاربر گرامی داروخانه',
       role: role === 'admin' ? 'pharmacist' : 'customer',
       token: `jwt_token_${Date.now()}`
     };

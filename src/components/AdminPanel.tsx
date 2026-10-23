@@ -182,7 +182,7 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({
                 </span>
               </div>
               <p className="text-xs text-slate-400 mt-0.5">
-                مسئول فنی: دکتر م. حسینی (پروانه اشتغال داروسازی سازمان نظام پزشکی: د-۲۴۹۰)
+                مسئول فنی: دکتر م. خیرخواه (پروانه اشتغال داروسازی سازمان نظام پزشکی: د-۲۴۹۰)
               </p>
             </div>
           </div>

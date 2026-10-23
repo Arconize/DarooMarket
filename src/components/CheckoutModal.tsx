@@ -423,7 +423,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
               <div className="bg-slate-50 p-4 rounded-2xl border border-slate-200 space-y-2 text-xs">
                 <div className="flex justify-between text-slate-600">
                   <span>پذیرنده:</span>
-                  <span className="font-bold text-slate-800">داروخانه آنلاین سلامت (دکتر حسینی)</span>
+                  <span className="font-bold text-slate-800">داروخانه آنلاین سلامت (دکتر خیرخواه)</span>
                 </div>
                 <div className="flex justify-between text-slate-600">
                   <span>شماره پذیرنده (Terminal ID):</span>

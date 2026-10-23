@@ -25,7 +25,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPrescription, onOpenBacken
             </div>
             
             <p className="text-xs text-slate-400 leading-relaxed">
-              داروخانه شبانه‌روزی دکتر حسینی با پروانه تاسیس رسمی از دانشگاه علوم پزشکی تهران و مجوز فروش اینترنتی فرآورده‌های سلامت‌محور، مکمل‌های رژیمی، ورزشی، آرایشی بهداشتی و ارتوپدی.
+              داروخانه شبانه‌روزی دکتر خیرخواه با پروانه تاسیس رسمی از دانشگاه علوم پزشکی تهران و مجوز فروش اینترنتی فرآورده‌های سلامت‌محور، مکمل‌های رژیمی، ورزشی، آرایشی بهداشتی و ارتوپدی.
             </p>
 
             <div className="text-xs space-y-2 text-slate-400">
@@ -121,7 +121,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenPrescription, onOpenBacken
 
         {/* Bottom copyright */}
         <div className="pt-6 border-t border-slate-800 text-center text-xs text-slate-500">
-          تمامی حقوق این سامانه متعلق به داروخانه آنلاین سلامت (دکتر حسینی) می‌باشد. طراحی و معماری منطبق با استانداردهای Next.js و FastAPI.
+          تمامی حقوق این سامانه متعلق به داروخانه آنلاین سلامت (دکتر خیرخواه) می‌باشد. طراحی و معماری منطبق با استانداردهای Next.js و FastAPI.
         </div>
 
       </div>

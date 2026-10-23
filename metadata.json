@@ -1,0 +1,6 @@
+{
+  "name": "داروخانه آنلاین سلامت | پلتفرم فروش دارو و مکمل",
+  "description": "سامانه جامع داروخانه اینترنتی ایران؛ مکمل‌های دارویی، آرایشی بهداشتی، پنل مدیریت، شبیه‌ساز درگاه و راهنمای کامل FastAPI و PostgreSQL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
